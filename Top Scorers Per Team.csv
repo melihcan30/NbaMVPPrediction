@@ -1,0 +1,31 @@
+PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_ABBREVIATION,TEAM_NAME,avg_ppg
+201935,James Harden,1610612745,HOU,Houston Rockets,34.3
+1626164,Devin Booker,1610612756,PHX,Phoenix Suns,26.6
+203897,Zach LaVine,1610612741,CHI,Chicago Bulls,25.5
+2544,LeBron James,1610612747,LAL,Los Angeles Lakers,25.3
+1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,24.0
+1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,23.4
+203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,22.2
+201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,22.1
+1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,20.8
+203999,Nikola Jokic,1610612743,DEN,Denver Nuggets,19.9
+203933,T.J. Warren,1610612754,IND,Indiana Pacers,19.8
+202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,19.6
+202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,19.6
+1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,19.2
+1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,19.0
+203095,Evan Fournier,1610612753,ORL,Orlando Magic,18.5
+101150,Lou Williams,1610612746,LAC,LA Clippers,18.2
+1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,18.2
+1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,17.8
+1628389,Bam Adebayo,1610612748,MIA,Miami Heat,15.9
+203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,15.8
+203925,Joe Harris,1610612751,BKN,Brooklyn Nets,14.5
+1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,14.0
+201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,13.2
+1626174,Christian Wood,1610612765,DET,Detroit Pistons,13.1
+1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,12.3
+201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,12.0
+202397,Ish Smith,1610612764,WAS,Washington Wizards,10.9
+1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,10.6
+1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,10.1
